@@ -1,4 +1,5 @@
 Git is version control is used to track changes to files over time which makes it easier to manage and colloborate on projects. Also it's like having
 multiple version of a file like your resume where every change is saved without creating seperate files like resume v2 or resume v4. Finally 
 git helps you maintian one version while keeping a history of all the changes. Git is essential for software devlopement making it easier to 
-collaborate, track, and manage changes efficently. 
+collaborate, track, and manage changes efficently. There is also some key ideas that I learned which are branching , commiting , merging 
+and remote respoitory. 
